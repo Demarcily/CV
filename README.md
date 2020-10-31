@@ -7,15 +7,15 @@ Need to get used to making several commits and then pushing them all at once ins
 
 Plannering:
 Komponenter
-En <Header> och en <Main>, ingent särskilt mycket är fortfarande inte helt säker hur en resume på en sida ska se ut (min förra definition var en portfolio men det var ju fel ;-;)
+En Header och en Main, ingent särskilt mycket är fortfarande inte helt säker hur en resume på en sida ska se ut (min förra definition var en portfolio men det var ju fel ;-;)
 
 Struktur
-<Header>, <Main>, <Article> och <Section> för att organisera
-<ul> och <li> för att göra listor
+Header, Main, Article och Section för att organisera
+ul och li för att göra listor
 
-<h1>, <h2> och <h3> används rubriker och mindre rubriker (h3 är ett speciellt fall)
-<p> för vanlig text
-<br> för radbryt
+h1, h2 och h3 används rubriker och mindre rubriker (h3 är ett speciellt fall)
+p för vanlig text
+br för radbryt
 
 Design
 - Färger
@@ -44,7 +44,7 @@ Jag tyckte att det vara ganska lätt att överföra hela resumen som jag hade gj
 
 När jag Validerade koden på den speciall sidan så visades inga problem (tror jag, var inte helt säker vilka options jag skulle ta)
 
-CSS var också ganska lätt och så lärde jag mig hur jag kunde ge en <article> en klass och sedan skriva ".addressinfo p" man kan också skriva det som "p.addressinfo" om <p> har den klassen i sig 
+CSS var också ganska lätt och så lärde jag mig hur jag kunde ge en article en klass och sedan skriva ".addressinfo p" man kan också skriva det som "p.addressinfo" om p har den klassen i sig 
 
 - Vad behöver/Vill jag lära mig mer om
 jag vill be mer van med att tillägga olika klasser på object och hur man använder id="" och bli mer van med att läsa av en html fil för i vissa tillfällen tappa jag bort mig lite
