@@ -1,3 +1,17 @@
+body {
+    margin: 0 auto;
+    width: 70%;
+}
+
 h2 {
     border-bottom: 1px solid black;
+}
+
+h3 {
+    font-size: 0.8rem;
+    color: #686869;
+}
+
+.picture {
+    float: right;
 }
