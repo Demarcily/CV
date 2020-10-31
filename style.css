@@ -28,4 +28,8 @@ li {
     font-size: 1rem;
 }
 
+h1, h2, h3, p, li {
+    font-family: 'Franklin Gothic Regular', 'Arial Narrow', Arial, sans-serif;
+}
+
 
