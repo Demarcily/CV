@@ -22,7 +22,7 @@ Design
 Inget speciellt, svart och vitt
 
 - Typsnitt
-Jag prövade olika fonter och jag tyckte att fonten "Franklin Gothic Regular" ser ganska bra ut det är också "sans-serif"
+"Franklin Gothic Regular, Arial Narrow, Arial, sans-serif"
 
 - Visuella element
 Kommer nog inte finnas något i sidan som får den att stå ut särskilt mycket
@@ -37,5 +37,19 @@ Det är Harry potter vi pratar om så istället för en bild så länkade jag en
 Reflektion av process:
 Jag borde ha kollat på skillnaden för en portfolio och resume innan jag gjorde prototypen på figma.
 
-...Min defination av hur ett Cv och Resume ser ut på en sida är också tydligen fel (YAY!)
+...Min definition av hur ett Cv och Resume ser ut på en sida är också tydligen fel (YAY!)
+
+- Vad har gått bra
+Jag tyckte att det vara ganska lätt att överföra hela resumen som jag hade gjort på engelskan till html filen och sedan hur organisera den (It was enjoyable in my opinion)
+
+När jag Validerade koden på den speciall sidan så visades inga problem (tror jag, var inte helt säker vilka options jag skulle ta)
+
+CSS var också ganska lätt och så lärde jag mig hur jag kunde ge en <article> en klass och sedan skriva ".addressinfo p" man kan också skriva det som "p.addressinfo" om <p> har den klassen i sig 
+
+- Vad behöver/Vill jag lära mig mer om
+jag vill be mer van med att tillägga olika klasser på object och hur man använder id="" och bli mer van med att läsa av en html fil för i vissa tillfällen tappa jag bort mig lite
+
+Jag kommer behöva veta varför en sida utan nån koda har en liten marginal och sedan hur jag ska ta bort den
+
+Jag vill lära mig mer om hur jag ska lägga backgrund färger på ett korrekt sätt och mer om färger generellt
 
