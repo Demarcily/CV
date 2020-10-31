@@ -1,17 +1,31 @@
 body {
     margin: 0 auto;
-    width: 70%;
+    width: 60%;
 }
-
 h2 {
     border-bottom: 1px solid black;
+    margin-bottom: 7px;
+    margin-top: 15px;
 }
-
 h3 {
     font-size: 0.8rem;
     color: #686869;
+    margin-bottom: 1px;
 }
-
 .picture {
     float: right;
 }
+p {
+    margin: 0;
+}
+.addressinfo p {
+    margin-bottom: 20px;
+}
+.topmargin {
+    margin-top: -15px;
+}
+li {
+    font-size: 1rem;
+}
+
+
